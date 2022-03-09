@@ -1,0 +1,165 @@
+body {
+    background:#eee;
+}
+
+h1 
+{
+  font-size: 18px;
+}
+
+hr 
+{
+  margin: 1px 0;
+  border-top: 1px solid #ccc;
+}
+
+input
+{
+  font-family: 'Oswald', sans-serif;
+  display: inline-block;
+  padding: 6px;
+  text-decoration: none;max-width:90%;
+}
+
+input[type="text"],input[type="submit"]
+{
+  color: #333333;
+  background-color: #FFFFFF;
+  border: 1px solid #353A40;
+  border-radius: 3px;
+  margin: 2px;
+}
+
+input[type="submit"]:hover
+{
+  color: #333333;
+  background-color: #E6E6E6;
+  border: 1px solid #353A40;
+  border-radius: 3px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+img 
+{
+  border: none;
+  margin: 0.5px;
+  vertical-align: middle;
+}
+
+blockquote 
+{
+  border-left:2px solid #ddd;
+  margin:0 0 0 5px;
+  padding-left:5px;
+}
+
+ul, ol 
+{
+  margin-left: 40px;
+}
+
+p, li 
+{
+  margin: 0 0 10px;
+}
+
+h1, h2, h3, p 
+{
+  margin: 0 0 1px 0;
+  padding: 0;
+}
+
+ul, ol 
+{
+  margin-top: 0;
+  margin-bottom: 5px;
+  margin-left:10px;
+  padding: 0;
+}
+
+hr 
+{
+  color: #999999;
+  height: 1px;
+}
+ul.table.group 
+{
+  margin: 10px;
+  padding: 0;
+}
+
+ul.table 
+{
+  clear: both;
+  color: #999999;
+  list-style: none;
+  margin: 0;
+}
+
+ul.table li 
+{
+  border-bottom: 1px solid #CCCCCC;
+  padding:15px;
+}
+
+ul.table li:last-child 
+{
+  border: 0;
+}
+
+ul.table.disclosure li,ul.table li.disclosure 
+{
+  margin: 0;
+  padding:0;
+  position: relative;
+}
+
+ul.table.disclosure a,ul.table li.disclosure a 
+{
+  border: 0;
+  display:block;
+  padding:5px 10px;
+  text-decoration: none;
+}
+
+ul.table.disclosure a .date,ul.table li.disclosure a .date 
+{
+  color: #666666;
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+ul.table li .title 
+{
+  background: #A5A5A5 url(/images/title-dimple.gif) repeat-x top;
+  border-bottom:1px solid #777777;
+  color: #FFFFFF;
+  display: block;
+  font-size: 10px;
+  font-weight:normal;
+  padding: 3px 8px;
+  text-shadow: 0 1px 1px #555;
+}
+
+input,select{
+    padding:5px 10px;color:#000;font-family:"Tabarra Black Shadow";background-color:#fff;
+    border:1px solid #eaeaea;outline:none;margin:3px;
+}
+form input[type=text],form input[type=password],form input[type=file]{
+    width:25%;height:20px;font-family:"Tabarra Black Shadow";border:1px solid #ddd;
+}
+input:focus,textarea:focus{
+    border:1px solid #eee;
+}
+input[type=submit]{
+    background:#222;background-repeat:repeat-x;color:#fff;padding:7px;width:100px;
+}
+input[type=submit]:hover{
+    cursor:pointer;color:#fff;
+}
+textarea{
+    color:#222;font-family:"Tabarra Black Shadow";background:#fff;
+    width:60%;height:60px;margin:2px;padding:4px;font-family:Arial;
+    font-size:13px;font-weight:bold;border:1px solid #ddd;
+}
