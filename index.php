@@ -19,10 +19,17 @@
 				<li>Bootstrap also gives you the ability to easily create responsive designs</li>
 			</ol>
 		</p>
+
+		<br>
+
 		<div class="btn-group">
 
 		<a href="basicBSpage1.php"> <button type="button" class="
 			btn btn-primary">Basic Page 1</button> </a>
+
+		<a href="basicBSpage2.php"> <button type="button" class="
+			btn btn-success">Basic Page 2</button> </a>
+
 
 		</div>
 		</div>
