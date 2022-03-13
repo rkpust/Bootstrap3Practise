@@ -10,6 +10,7 @@
 </head>
 	<body>
 		<div class="container"> 
+
 		<h2>Bootstrap 3 At A Galnce</h2>
 		<h3>What is Bootstrap?</h3>
 		<p>
@@ -22,16 +23,21 @@
 
 		<br>
 
-		<div class="btn-group">
+			<div class="btn-group">
 
-		<a href="basicBSpage1.php"> <button type="button" class="
-			btn btn-primary">Basic Page 1</button> </a>
+			<a href="basicBSpage1.php"> <button type="button" class="
+				btn btn-primary">Basic Page 1</button> </a>
 
-		<a href="basicBSpage2.php"> <button type="button" class="
-			btn btn-success">Basic Page 2</button> </a>
+			<a href="basicBSpage2.php"> <button type="button" class="
+				btn btn-success">Basic Page 2</button> </a>
+
+			<a href="basicBSpage2.php"> <button type="button" class="
+				btn btn-info">BS Grid E3C</button> </a>
 
 
-		</div>
+			</div>
+
+		
 		</div>
 	</body>
 
