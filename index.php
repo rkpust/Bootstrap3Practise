@@ -31,8 +31,11 @@
 			<a href="basicBSpage2.php"> <button type="button" class="
 				btn btn-success">Basic Page 2</button> </a>
 
-			<a href="basicBSpage2.php"> <button type="button" class="
+			<a href="BSgridEqual3colm.php"> <button type="button" class="
 				btn btn-info">BS Grid E3C</button> </a>
+
+			<a href="BSgridUnEqual2colm.php"> <button type="button" class="
+				btn">BS Grid UE2C</button> </a>	
 
 
 			</div>
