@@ -35,7 +35,10 @@
 				btn btn-info">BS Grid E3C</button> </a>
 
 			<a href="BSgridUnEqual2colm.php"> <button type="button" class="
-				btn">BS Grid UE2C</button> </a>	
+				btn">BS Grid UnE2C</button> </a>
+
+			<a href="BStypographyORtext.php"> <button type="button" class="
+				btn btn-default">BS Typography</button> </a>	
 
 
 			</div>
