@@ -38,7 +38,10 @@
 				btn">BS Grid UnE2C</button> </a>
 
 			<a href="BStypographyORtext.php"> <button type="button" class="
-				btn btn-default">BS Typography</button> </a>	
+				btn btn-default">BS Typography</button> </a>
+
+			<a href="BStable.php"> <button type="button" class="
+				btn btn-warning">BS Table</button> </a>
 
 
 			</div>
