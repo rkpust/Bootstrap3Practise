@@ -43,6 +43,9 @@
 			<a href="BStable.php"> <button type="button" class="
 				btn btn-warning">BS Table</button> </a>
 
+			<a href="BSimages.php"> <button type="button" class="
+				btn btn-danger">BS Images</button> </a>
+
 
 			</div>
 
