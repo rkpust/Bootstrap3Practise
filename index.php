@@ -46,6 +46,9 @@
 			<a href="BSimages.php"> <button type="button" class="
 				btn btn-danger">BS Images</button> </a>
 
+			<a href="BSjumbotron.php"> <button type="button" class="
+				btn btn-primary">BS Jumbotron</button> </a>
+
 
 			</div>
 
