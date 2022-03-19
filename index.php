@@ -47,7 +47,10 @@
 				btn btn-danger">BS Images</button> </a>
 
 			<a href="BSjumbotron.php"> <button type="button" class="
-				btn btn-primary">BS Jumbotron</button> </a>
+				btn btn-link">BS Jumbotron</button> </a>
+
+			<a href="BSwells.php"> <button type="button" class="
+				btn btn-primary">BS Wells</button> </a>
 
 
 			</div>
