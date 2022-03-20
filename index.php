@@ -52,6 +52,9 @@
 			<a href="BSwells.php"> <button type="button" class="
 				btn btn-primary">BS Wells</button> </a>
 
+			<a href="BSalerts.php"> <button type="button" class="
+				btn btn-success">BS Alerts</button> </a>
+
 
 			</div>
 
