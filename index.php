@@ -59,6 +59,9 @@
 			<a href="BSbuttons.php"> <button type="button" class="
 				btn btn-info">BS Buttons</button> </a>
 
+			<a href="BSbuttonGroups.php"> <button type="button" class="
+				btn">BS Button Groups</button> </a>
+
 
 			</div>
 
