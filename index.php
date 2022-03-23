@@ -62,6 +62,9 @@
 			<a href="BSbuttonGroups.php"> <button type="button" class="
 				btn">BS Button Groups</button> </a>
 
+			<a href="BSbadgesOrLabels.php"> <button type="button" class="
+				btn btn-default">BS Badges</button> </a>
+
 
 			</div>
 
