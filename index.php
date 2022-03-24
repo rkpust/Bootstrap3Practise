@@ -65,6 +65,9 @@
 			<a href="BSbadgesOrLabels.php"> <button type="button" class="
 				btn btn-default">BS Badges</button> </a>
 
+			<a href="BSprogressBars.php"> <button type="button" class="
+				btn btn-warning">BS Progress Bars</button> </a>
+
 
 			</div>
 
