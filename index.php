@@ -68,6 +68,9 @@
 			<a href="BSprogressBars.php"> <button type="button" class="
 				btn btn-warning">BS Progress Bars</button> </a>
 
+			<a href="BSpagination.php"> <button type="button" class="
+				btn btn-danger">BS Pagination</button> </a>
+
 
 			</div>
 
