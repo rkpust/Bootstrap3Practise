@@ -71,6 +71,9 @@
 			<a href="BSpagination.php"> <button type="button" class="
 				btn btn-danger">BS Pagination</button> </a>
 
+			<a href="BSpager.php"> <button type="button" class="
+				btn btn-link">BS Pager</button> </a>
+
 
 			</div>
 
