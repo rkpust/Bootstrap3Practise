@@ -74,6 +74,9 @@
 			<a href="BSpager.php"> <button type="button" class="
 				btn btn-link">BS Pager</button> </a>
 
+			<a href="BSlistGroups.php"> <button type="button" class="
+				btn btn-primary">BS List Groups</button> </a>
+
 
 			</div>
 
