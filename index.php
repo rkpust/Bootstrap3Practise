@@ -77,6 +77,9 @@
 			<a href="BSlistGroups.php"> <button type="button" class="
 				btn btn-primary">BS List Groups</button> </a>
 
+			<a href="BSpanels.php"> <button type="button" class="
+				btn btn-success">BS Panels</button> </a>
+
 
 			</div>
 
