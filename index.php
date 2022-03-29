@@ -80,6 +80,9 @@
 			<a href="BSpanels.php"> <button type="button" class="
 				btn btn-success">BS Panels</button> </a>
 
+			<a href="BStooltip.php"> <button type="button" class="
+				btn btn-info">BS Tooltip</button> </a>
+
 
 			</div>
 
