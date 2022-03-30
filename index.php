@@ -83,6 +83,10 @@
 			<a href="BStooltip.php"> <button type="button" class="
 				btn btn-info">BS Tooltip</button> </a>
 
+			<a href="BStabs&pills.php"> <button type="button" class="
+				btn">BS Tabs&Pills</button> </a>
+
+
 
 			</div>
 
