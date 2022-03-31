@@ -86,6 +86,9 @@
 			<a href="BStabs&pills.php"> <button type="button" class="
 				btn">BS Tabs&Pills</button> </a>
 
+			<a href="BSscrollspy.php"> <button type="button" class="
+				btn btn-default">BS Scrollspy</button> </a>
+
 
 
 			</div>
