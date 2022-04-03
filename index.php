@@ -87,7 +87,10 @@
 				btn">BS Tabs&Pills</button> </a>
 
 			<a href="BSscrollspy.php"> <button type="button" class="
-				btn btn-default">BS Scrollspy</button> </a>
+				btn btn-default">BS Scrollspy-1</button> </a>
+
+			<a href="BSscrollspy2.php"> <button type="button" class="
+				btn btn-warning">BS Scrollspy-2</button> </a>
 
 
 
