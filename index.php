@@ -92,6 +92,10 @@
 			<a href="BSscrollspy2.php"> <button type="button" class="
 				btn btn-warning">BS Scrollspy-2</button> </a>
 
+			 <a href="BScollapse.php"> <button type="button" class="
+				btn btn-danger">BS Collapse</button> </a>
+
+
 
 
 			</div>
