@@ -151,6 +151,8 @@
 				<li><a a data-toggle="tab" href="#menu3">JavaScript</a></li>
 			</ul>
 
+			<br><br>
+
 			<div class="tab-content">
 				<div id="home" class="tab-pane fade in active">
 					<h3>Home</h3>

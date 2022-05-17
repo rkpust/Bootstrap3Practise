@@ -95,6 +95,9 @@
 			 <a href="BScollapse.php"> <button type="button" class="
 				btn btn-danger">BS Collapse</button> </a>
 
+			<a href="BSforms.php"> <button type="button" class="
+				btn btn-link">BS Form</button> </a>
+
 
 
 

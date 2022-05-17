@@ -14,7 +14,7 @@
 	<div class="container">
 		<h2>Simple Collapsible</h2>
 		 <p>Click on the button to toggle between showing and hiding content.</p>
-		<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo1" >Simple Collapsible</button>
+		<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo1" >Simple Collapsible 1</button>
 		
 		<div id="demo1" class="collapse">Panels are created with the .panel class and content inside the panel has a .panel-body class.
 		Panels are created with the .panel class and content inside the panel has a .panel-body class.
@@ -22,7 +22,7 @@
 
 		<br><br>
 
-		<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" >Simple Collapsible</button>
+		<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" >Simple Collapsible 2</button>
 		
 		<div id="demo" class="collapse in">Panels are created with the .panel class and content inside the panel has a .panel-body class.
 		Panels are created with the .panel class and content inside the panel has a .panel-body class.
