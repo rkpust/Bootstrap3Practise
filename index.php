@@ -98,6 +98,9 @@
 			<a href="BSforms.php"> <button type="button" class="
 				btn btn-link">BS Form</button> </a>
 
+			 <a href="BSinputs.php"> <button type="button" class="
+				btn btn-primary">BS Inputs 1</button> </a>
+
 
 
 
