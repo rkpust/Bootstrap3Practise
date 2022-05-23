@@ -101,6 +101,9 @@
 			 <a href="BSinputs.php"> <button type="button" class="
 				btn btn-primary">BS Inputs 1</button> </a>
 
+			<a href="BSinputs2.php"> <button type="button" class="
+				btn btn-success">BS Inputs 2</button> </a>
+
 
 
 
