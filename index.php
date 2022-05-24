@@ -104,6 +104,9 @@
 			<a href="BSinputs2.php"> <button type="button" class="
 				btn btn-success">BS Inputs 2</button> </a>
 
+			<a href="BSinputSizing.php"> <button type="button" class="
+				btn btn-info">BS Input Sizing</button> </a>
+
 
 
 
