@@ -107,6 +107,9 @@
 			<a href="BSinputSizing.php"> <button type="button" class="
 				btn btn-info">BS Input Sizing</button> </a>
 
+			<a href="BSdropdowns.php"> <button type="button" class="
+				btn">BS Dropdown</button> </a>
+
 
 
 
