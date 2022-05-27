@@ -110,6 +110,10 @@
 			<a href="BSdropdowns.php"> <button type="button" class="
 				btn">BS Dropdown</button> </a>
 
+			<a href="BScarousel.php"> <button type="button" class=" btn
+				btn-default">BS Carousel</button> </a>
+
+
 
 
 
