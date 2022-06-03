@@ -113,6 +113,10 @@
 			<a href="BScarousel.php"> <button type="button" class=" btn
 				btn-default">BS Carousel</button> </a>
 
+			<a href="BSmodal.php"> <button type="button" class=" btn
+				btn-default">BS Modal</button> </a>
+
+
 
 
 
