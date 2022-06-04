@@ -114,7 +114,11 @@
 				btn-default">BS Carousel</button> </a>
 
 			<a href="BSmodal.php"> <button type="button" class=" btn
-				btn-default">BS Modal</button> </a>
+				btn-warning">BS Modal</button> </a>
+
+			<a href="BSglyphicons.php"> <button type="button" class=" btn
+				btn-danger">BS Glyphicon</button> </a>
+
 
 
 
