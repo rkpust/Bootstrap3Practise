@@ -119,6 +119,10 @@
 			<a href="BSglyphicons.php"> <button type="button" class=" btn
 				btn-danger">BS Glyphicon</button> </a>
 
+			<a href="BSpopover.php"> <button type="button" class=" btn
+				btn-link">BS Popover</button> </a>
+
+
 
 
 
