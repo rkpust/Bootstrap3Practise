@@ -122,6 +122,9 @@
 			<a href="BSpopover.php"> <button type="button" class=" btn
 				btn-link">BS Popover</button> </a>
 
+			<a href="BSnavBar.php"> <button type="button" class=" btn
+				btn-primary">BS Navbar</button> </a>
+
 
 
 
