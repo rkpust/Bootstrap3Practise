@@ -128,6 +128,9 @@
 			<a href="BSaffix.php"> <button type="button" class=" btn
 				btn-success">BS Affix</button> </a>
 
+			<a href="BSaffix2.php"> <button type="button" class=" btn
+				btn-info">BS Affix 2</button> </a>
+
 
 
 
